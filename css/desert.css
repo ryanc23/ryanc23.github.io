@@ -1,0 +1,42 @@
+.jumbotron {
+
+	
+	height: 200px;
+
+
+
+}
+
+body {
+	background: url("/img/kaitlyn-happydaymedia-web-47.jpg");
+	background-size: cover;
+
+}
+#b1 { 
+	background: url("/img/kayak.jpg");
+	background-size: cover;
+	transition: background 0.2s linear;   	
+}
+#b2 { 
+	background: url("/img/shake.jpg");
+	background-size: cover;
+	transition: background 0.2s linear; 
+
+ }
+#b3 { 
+	background: url("/img/timer.jpg");
+    background-size: cover;
+    transition: background 0.2s linear;  }
+#b4 { 
+	background: url("/img/barbell.jpeg");
+    background-size: cover;
+    transition: background 0.2s linear;  }
+#b5 { 
+	background: url("/img/pockets.jpg");
+    background-size: cover;
+    transition: background 0.2s linear;  }
+
+ #start {
+ 	color: white;
+ }
+
