@@ -1,4 +1,4 @@
-﻿
+
 
 /*=============================================================
     Authour URI: www.binarytheme.com
@@ -22,7 +22,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size:14px;
+    font-size:4w34px;
     font-weight:400;
 }
 
@@ -102,6 +102,8 @@ body {
 
  .navbar-inverse .navbar-nav > li > a {
         color: #ffffff;
+        font-size: 20px;
+        
  }
 
    .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
@@ -113,7 +115,7 @@ body {
         color: #fff;
  }
 .navbar-brand {
-    font-size:30px;
+    font-size:40px;
     font-weight:900;
 }
 
@@ -147,37 +149,6 @@ body {
     background-color: rgba(152, 215, 150, 0.30);
 }
 
-
-/* =============================================================
-   COUNTDOWN STYLES
-    ============================================================ */
-
-#counter {
-   display: none;
-}
-#counter-default {
-    margin: 20px auto;
-}
-#counter-default .inner {
-    text-align: center;
-    border: none;
-    margin: 8px 0;
-    padding: 8px;
-}
-#counter-default .timer-number {
-    font-size: 100px;
-    margin-bottom: 10px;
-    font-weight: 900;
-    font-family:'Agency FB';
-    color:#fff;
-}
-#counter-default  .timer-text {
-    padding: 10px;
-    font-size:20px;
-    font-weight:800;
-    letter-spacing:5px;
-    color:#fff;
-}
 
 /* =============================================================
   MEDIA QUERIES
